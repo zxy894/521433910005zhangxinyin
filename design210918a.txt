@@ -1,0 +1,29 @@
+int diaW,diaH;
+int x,y;
+
+void setup(){
+  size(720,640);
+  background(0,120,140);
+  diaW=60;
+  diaH=60;
+  x=width/2;
+  y=height/2;
+};
+
+void draw(){
+  //background(0,120,140,5);
+  fill(0,120,140,5);
+  rect(0,0,width,height);
+  stroke(255);
+  strokeWeight(3);
+  fill(100,200,255);
+  x+=random(-20,20);
+  y+=random(-20,20);
+  if(x<0){
+    x+=random(0,10);
+  };
+  if(y<0){
+    y+=random(0,10);
+  };
+  ellipse(x,y,diaW,diaH);
+}
