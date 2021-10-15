@@ -1,6 +1,7 @@
 蒙德里安彩色版1
 ---------------
-![1](https://user-images.githubusercontent.com/90953713/137486426-80225627-2543-40bf-b3cf-50c2594af821.jpg)
+![1](https://user-images.githubusercontent.com/90953713/137487031-785d9956-afed-417c-a5fa-7926398a44f5.jpg)
+
 
 蒙德里安彩色版2
 ---------------
