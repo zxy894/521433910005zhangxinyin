@@ -11,6 +11,7 @@
 蒙德里安灰色版
 --------------
 ![3](https://user-images.githubusercontent.com/90953713/137486556-8fe43eba-b26c-4b35-90b1-7abd5ce1e044.jpg)
+>通过fill(floor(random(5))*63);使得各个灰度颜色有相同概率出现
 
 文本可视化
 ----------
