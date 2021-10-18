@@ -17,4 +17,4 @@
 交互画板
 --------
 ![5](https://user-images.githubusercontent.com/90953713/137747820-6b781979-6947-4382-9f00-4f290c69597a.jpg)
-![6](https://user-images.githubusercontent.com/90953713/137747841-801572e2-daab-4170-a820-203a9f2e87f2.jpg)
+![6](https://user-images.githubusercontent.com/90953713/137748616-57780280-e672-42b9-89d1-67c29ac632a0.jpg)
